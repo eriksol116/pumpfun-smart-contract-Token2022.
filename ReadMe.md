@@ -1,8 +1,20 @@
-# Pumpfun Smart Contract - TOKEN2022 Integration
+# 🚀Pumpfun Smart Contract - TOKEN2022 Integration🚀
+
+This repository contains the smart contract implementation for launching and managing a Token 2022 on the Solana blockchain using the Pump.fun platform. The contract enables token creation, bonding curve mechanics, liquidity management, and automated trading features.
 
 ## Overview
 
 The Pump.fun Smart Contract integrates with TOKEN2022, the latest upgrade to the SPL token program on Solana. TOKEN2022 adds new features like programmatic governance, custom fees, and tax handling, making it ideal for projects that need flexible token mechanics and DeFi capabilities.
+
+## 📞 **Stay Connected**
+
+Gmail: tom.kinddev@gmail.com
+
+Telegram: [@erikerik116](https://t.me/erikerik116)
+
+Discord: [@erikerik116](https://discord.com/channels/@me/304228787250528256)
+
+Twitter: @erikerikerik116
 
 
 ## Why TOKEN2022?
@@ -119,6 +131,4 @@ For projects that prefer Raydium’s constant product market maker (CPMM), liqui
 TOKEN2022’s integration with Pumpfun introduces new possibilities for decentralized applications on Solana, enabling improved tokenomics and governance structures. By leveraging Pumpfun’s liquidity management and Raydium’s AMM protocols, developers can create more efficient and versatile financial instruments.
 
 For further inquiries, feel free to open an issue or reach out via Telegram.
-
-- **Telegram Support:** [Sabonis](https://t.me/dogewhiz)
 
